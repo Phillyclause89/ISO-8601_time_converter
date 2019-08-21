@@ -2,7 +2,7 @@
 A simple time conversion function written in Python. 
 
 ## time_convert(iso_time, offset=0)
-The time_convert() function takes an ISO 8601 formatted datetime string and an optional time zone offset integer as input and returns timezone converted datetime sting in a more human readable format. 
+The time_convert() function takes an ISO 8601 formatted datetime string and an optional time zone offset integer as input and returns timezone converted datetime string in a more human readable format. 
 
 ## Input
 ```python

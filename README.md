@@ -16,6 +16,8 @@ time = "2020-02-28-T15:33:25.000Z"
 print(time_convert(time, +12))
 time = "2020-12-31-T23:33:25.000Z"
 print(time_convert(time, +1))
+time = "2020-12-31-T23:33:25.000Z"
+print(time_convert(time))
 ```
 
 ## Output
@@ -25,4 +27,5 @@ February 28, 2019, 11:33 PM
 December 31, 2019, 11:33 PM
 February 29, 2020, 3:33 AM
 January 1, 2021, 12:33 AM
+December 31, 2020, 11:33 PM
 ```

@@ -6,6 +6,8 @@ The time_convert() function takes an ISO 8601 formatted datetime string and an o
 
 ## Input
 ```python
+from time_converter import time_convert
+
 time = "2020-03-01-T00:33:25.000Z"
 print(time_convert(time, -1))
 time = "2019-03-01-T00:33:25.000Z"

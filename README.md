@@ -19,7 +19,7 @@ print(time_convert(time, +1))
 ```
 
 ## Output
-```python
+```
 February 29, 2020, 11:33 PM
 February 28, 2019, 11:33 PM
 December 31, 2019, 11:33 PM
